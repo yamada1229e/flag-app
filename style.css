@@ -1,0 +1,23 @@
+.help_dev {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #007BFF;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.help_dev:hover {
+  background: #0056b3;
+}
+
+.flag-none {
+  color:black;
+}
+
+.flag-yellow {
+  color: rgb(98, 98, 0);
+}
+
+.flag-red {
+  color: rgb(255, 63, 63);
+}
